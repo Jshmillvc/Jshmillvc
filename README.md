@@ -6,8 +6,8 @@ Currently, I'm working as a Software Engineer at Veracross, where I'm continuing
 
 ## 🚀 About Me
 
-* 💻 Software Engineer at Veracross
-* 🎓 B.S. in Mathematics & Computer Science from Gordon College
+* 💻 Software Engineer @ Veracross
+* 🎓 B.S. in Mathematics & Computer Science from Gordon College Grad 2026
 * 🌱 Interested in Full-Stack Development, Machine Learning, and Software Architecture
 * 🎯 Enjoy building clean, maintainable, and user-focused applications
 * 🤝 Always excited to learn new technologies and collaborate with other developers
