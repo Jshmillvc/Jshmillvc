@@ -47,5 +47,5 @@ When I'm not coding, you'll find me:
 
 ## 📫 Connect With Me
 
-* 📧 Email: [joshuamiller1@gmail.com](mailto:joshuamiller1@gmail.com)
-* 💼 LinkedIn: linkedin.com/in/joshua-miller426
+* 📧 [Email](mailto:joshuamiller1@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/joshua-miller426/)
