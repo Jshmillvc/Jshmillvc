@@ -29,8 +29,6 @@ Currently, I'm working as a Software Engineer at Veracross, where I'm continuing
 ## 📌 Areas of Interest
 
 * Full-Stack Development
-* Web Applications
-* Database Structures
 * Machine Learning
 * UI/UX Design
 * Developer Tools
